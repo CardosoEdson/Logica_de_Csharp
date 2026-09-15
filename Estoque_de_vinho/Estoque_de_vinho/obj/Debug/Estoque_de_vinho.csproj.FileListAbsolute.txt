@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Estoque_de_vinho\Estoque_de_vinho\bin\Debug\Estoque_de_vinho.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Estoque_de_vinho\Estoque_de_vinho\bin\Debug\Estoque_de_vinho.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Estoque_de_vinho\Estoque_de_vinho\bin\Debug\Estoque_de_vinho.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Estoque_de_vinho\Estoque_de_vinho\obj\Debug\Estoque_de_vinho.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Estoque_de_vinho\Estoque_de_vinho\obj\Debug\Estoque_de_vinho.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Estoque_de_vinho\Estoque_de_vinho\obj\Debug\Estoque_de_vinho.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Estoque_de_vinho\Estoque_de_vinho\obj\Debug\Estoque_de_vinho.pdb

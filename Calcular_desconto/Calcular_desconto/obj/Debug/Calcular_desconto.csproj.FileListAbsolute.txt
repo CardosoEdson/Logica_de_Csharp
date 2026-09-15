@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Calcular_desconto\Calcular_desconto\bin\Debug\Calcular_desconto.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Calcular_desconto\Calcular_desconto\bin\Debug\Calcular_desconto.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Calcular_desconto\Calcular_desconto\bin\Debug\Calcular_desconto.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Calcular_desconto\Calcular_desconto\obj\Debug\Calcular_desconto.pdb
