@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Maior_numero_de_5
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double n1, n2, n3, n4, n5;
+            Console.WriteLine(" Digite o primeiro numero ");
+            n1 = double.Parse(Console.ReadLine());
+            Console.WriteLine(" Digite o segundo numeor: ");
+            n2 = double.Parse(Console.ReadLine());
+            Console.WriteLine(" Digite o terceiro numero: ");
+            n3 = double.Parse(Console.ReadLine());
+            Console.WriteLine(" Digite o quarto numeor: ");
+            n4 = double.Parse(Console.ReadLine());
+            Console.WriteLine(" Digite o quinto numero: ");
+            n5 = double.Parse(Console.ReadLine());
+            if (n1 > n2 && n1 > n3 && n1 > n4 && n1 > n5)
+            {
+                Console.WriteLine(" O maior numero é:" + n1);
+            }
+            else if (n2 > n1 && n2 > n3 && n2 > n4 && n2 > n5)
+            {
+                Console.WriteLine(" O maior numero é:" + n2);
+            }
+            else if (n3 > n1 && n3 > n2 && n3 > n4 && n3 > n5)
+            {
+                Console.WriteLine(" O maior numero é:" + n3);
+            }
+            else if (n4 > n1 && n4 > n2 && n4 > n3 && n4 > n5)
+            {
+                Console.WriteLine(" O maior numero é:" + n4);
+            }
+            else
+            {
+                Console.WriteLine(" O maior numero é:" + n5);
+
+
+
+            }
+        }
+    }
+}

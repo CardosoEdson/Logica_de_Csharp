@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Divisao_De_Numeros\Divisao_De_Numeros\obj\Debug\Divisao_De_Numeros.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Divisao_De_Numeros\Divisao_De_Numeros\obj\Debug\Divisao_De_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Divisao_De_Numeros\Divisao_De_Numeros\bin\Debug\Divisao_De_Numeros.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Divisao_De_Numeros\Divisao_De_Numeros\bin\Debug\Divisao_De_Numeros.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Divisao_De_Numeros\Divisao_De_Numeros\bin\Debug\Divisao_De_Numeros.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Divisao_De_Numeros\Divisao_De_Numeros\obj\Debug\Divisao_De_Numeros.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Divisao_De_Numeros\Divisao_De_Numeros\obj\Debug\Divisao_De_Numeros.pdb

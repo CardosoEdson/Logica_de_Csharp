@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Media escolar\Media escolar\bin\Debug\Media escolar.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Media escolar\Media escolar\bin\Debug\Media escolar.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Media escolar\Media escolar\bin\Debug\Media escolar.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Media escolar\Media escolar\obj\Debug\Media escolar.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Media escolar\Media escolar\obj\Debug\Media escolar.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Media escolar\Media escolar\obj\Debug\Media escolar.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Media escolar\Media escolar\obj\Debug\Media escolar.pdb

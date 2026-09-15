@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Soma_de_numeros\Soma_de_numeros\bin\Debug\Soma_de_numeros.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Soma_de_numeros\Soma_de_numeros\bin\Debug\Soma_de_numeros.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Soma_de_numeros\Soma_de_numeros\bin\Debug\Soma_de_numeros.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Soma_de_numeros\Soma_de_numeros\obj\Debug\Soma_de_numeros.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Soma_de_numeros\Soma_de_numeros\obj\Debug\Soma_de_numeros.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Soma_de_numeros\Soma_de_numeros\obj\Debug\Soma_de_numeros.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Soma_de_numeros\Soma_de_numeros\obj\Debug\Soma_de_numeros.pdb

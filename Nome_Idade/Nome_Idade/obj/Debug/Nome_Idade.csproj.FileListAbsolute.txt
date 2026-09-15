@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Nome_Idade\Nome_Idade\bin\Debug\Nome_Idade.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Nome_Idade\Nome_Idade\bin\Debug\Nome_Idade.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Nome_Idade\Nome_Idade\bin\Debug\Nome_Idade.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Nome_Idade\Nome_Idade\obj\Debug\Nome_Idade.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Nome_Idade\Nome_Idade\obj\Debug\Nome_Idade.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Nome_Idade\Nome_Idade\obj\Debug\Nome_Idade.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Nome_Idade\Nome_Idade\obj\Debug\Nome_Idade.pdb

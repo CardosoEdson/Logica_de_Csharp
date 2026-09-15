@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edson.cgoncalo\\Documents\\C# Downloads\\Maior_numero_de_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E01B6F8-962A-49C6-870C-AD8FA0447EA9}|Maior_numero_de_5\\Maior_numero_de_5.csproj|c:\\users\\edson.cgoncalo\\documents\\c# downloads\\maior_numero_de_5\\maior_numero_de_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E01B6F8-962A-49C6-870C-AD8FA0447EA9}|Maior_numero_de_5\\Maior_numero_de_5.csproj|solutionrelative:maior_numero_de_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edson.cgoncalo\\Documents\\C# Downloads\\Maior_numero_de_5\\Maior_numero_de_5\\Program.cs",
+              "RelativeDocumentMoniker": "Maior_numero_de_5\\Program.cs",
+              "ToolTip": "C:\\Users\\edson.cgoncalo\\Documents\\C# Downloads\\Maior_numero_de_5\\Maior_numero_de_5\\Program.cs",
+              "RelativeToolTip": "Maior_numero_de_5\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:09:24.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

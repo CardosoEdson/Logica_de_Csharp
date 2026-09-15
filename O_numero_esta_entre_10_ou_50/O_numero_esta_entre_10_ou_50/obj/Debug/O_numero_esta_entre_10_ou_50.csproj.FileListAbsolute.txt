@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\O_numero_esta_entre_10_ou_50\O_numero_esta_entre_10_ou_50\bin\Debug\O_numero_esta_entre_10_ou_50.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\O_numero_esta_entre_10_ou_50\O_numero_esta_entre_10_ou_50\bin\Debug\O_numero_esta_entre_10_ou_50.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\O_numero_esta_entre_10_ou_50\O_numero_esta_entre_10_ou_50\bin\Debug\O_numero_esta_entre_10_ou_50.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\O_numero_esta_entre_10_ou_50\O_numero_esta_entre_10_ou_50\obj\Debug\O_numero_esta_entre_10_ou_50.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\O_numero_esta_entre_10_ou_50\O_numero_esta_entre_10_ou_50\obj\Debug\O_numero_esta_entre_10_ou_50.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\O_numero_esta_entre_10_ou_50\O_numero_esta_entre_10_ou_50\obj\Debug\O_numero_esta_entre_10_ou_50.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\O_numero_esta_entre_10_ou_50\O_numero_esta_entre_10_ou_50\obj\Debug\O_numero_esta_entre_10_ou_50.pdb

@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\maior e menor\maior e menor\bin\Debug\maior e menor.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\maior e menor\maior e menor\bin\Debug\maior e menor.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\maior e menor\maior e menor\bin\Debug\maior e menor.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\maior e menor\maior e menor\obj\Debug\maior e menor.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\maior e menor\maior e menor\obj\Debug\maior e menor.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\maior e menor\maior e menor\obj\Debug\maior e menor.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\maior e menor\maior e menor\obj\Debug\maior e menor.pdb

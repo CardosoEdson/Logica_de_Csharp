@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Tempo_De_Entrega\Tempo_De_Entrega\bin\Debug\Tempo_De_Entrega.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Tempo_De_Entrega\Tempo_De_Entrega\bin\Debug\Tempo_De_Entrega.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Tempo_De_Entrega\Tempo_De_Entrega\bin\Debug\Tempo_De_Entrega.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Tempo_De_Entrega\Tempo_De_Entrega\obj\Debug\Tempo_De_Entrega.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Tempo_De_Entrega\Tempo_De_Entrega\obj\Debug\Tempo_De_Entrega.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Tempo_De_Entrega\Tempo_De_Entrega\obj\Debug\Tempo_De_Entrega.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Tempo_De_Entrega\Tempo_De_Entrega\obj\Debug\Tempo_De_Entrega.pdb

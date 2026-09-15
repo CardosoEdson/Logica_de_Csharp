@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Maior_numero_de_5\Maior_numero_de_5\obj\Debug\Maior_numero_de_5.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Maior_numero_de_5\Maior_numero_de_5\obj\Debug\Maior_numero_de_5.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Maior_numero_de_5\Maior_numero_de_5\bin\Debug\Maior_numero_de_5.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Maior_numero_de_5\Maior_numero_de_5\bin\Debug\Maior_numero_de_5.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Maior_numero_de_5\Maior_numero_de_5\bin\Debug\Maior_numero_de_5.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Maior_numero_de_5\Maior_numero_de_5\obj\Debug\Maior_numero_de_5.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Maior_numero_de_5\Maior_numero_de_5\obj\Debug\Maior_numero_de_5.pdb

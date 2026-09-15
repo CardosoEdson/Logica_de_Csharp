@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Numero_maior_que_100\Numero_maior_que_100\bin\Debug\Numero_maior_que_100.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Numero_maior_que_100\Numero_maior_que_100\bin\Debug\Numero_maior_que_100.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Numero_maior_que_100\Numero_maior_que_100\bin\Debug\Numero_maior_que_100.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Numero_maior_que_100\Numero_maior_que_100\obj\Debug\Numero_maior_que_100.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Numero_maior_que_100\Numero_maior_que_100\obj\Debug\Numero_maior_que_100.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Numero_maior_que_100\Numero_maior_que_100\obj\Debug\Numero_maior_que_100.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Numero_maior_que_100\Numero_maior_que_100\obj\Debug\Numero_maior_que_100.pdb
