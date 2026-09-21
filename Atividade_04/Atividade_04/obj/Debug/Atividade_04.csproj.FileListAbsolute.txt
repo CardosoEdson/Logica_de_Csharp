@@ -1,0 +1,7 @@
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Atividade_04\Atividade_04\obj\Debug\Atividade_04.csproj.AssemblyReference.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Atividade_04\Atividade_04\obj\Debug\Atividade_04.csproj.CoreCompileInputs.cache
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Atividade_04\Atividade_04\bin\Debug\Atividade_04.exe.config
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Atividade_04\Atividade_04\bin\Debug\Atividade_04.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Atividade_04\Atividade_04\bin\Debug\Atividade_04.pdb
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Atividade_04\Atividade_04\obj\Debug\Atividade_04.exe
+C:\Users\edson.cgoncalo\Documents\C# Downloads\Atividade_04\Atividade_04\obj\Debug\Atividade_04.pdb
